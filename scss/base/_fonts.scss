@@ -1,0 +1,21 @@
+//@font-face {
+//  font-family: 'Conv_MarkHeavy';
+//  src: url('../fonts/MarkHeavy.eot');
+//  src: local('☺'), url('../fonts/MarkHeavy.woff') format('woff'), url('../fonts/MarkHeavy.ttf') format('truetype'), url('../fonts/MarkHeavy.svg') format('svg');
+//  font-weight: normal;
+//  font-style: normal;
+//}
+@font-face {
+  font-family: 'Conv_Roboto-Regular';
+  src: url('../fonts/Roboto-Regular.eot');
+  src: local('☺'), url('../fonts/Roboto-Regular.woff') format('woff'), url('../fonts/Roboto-Regular.ttf') format('truetype'), url('../fonts/Roboto-Regular.svg') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Conv_Roboto-Bold';
+  src: url('../fonts/Roboto-Bold.eot');
+  src: local('☺'), url('../fonts/Roboto-Bold.woff') format('woff'), url('../fonts/Roboto-Bold.ttf') format('truetype'), url('../fonts/Roboto-Bold.svg') format('svg');
+  font-weight: 700;
+  font-style: normal;
+}

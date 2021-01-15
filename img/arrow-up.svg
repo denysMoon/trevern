@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 12" width="20" height="12">
+	<defs>
+		<image width="20" height="12" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAMCAMAAABV0m3JAAAAAXNSR0IB2cksfwAAAG9QTFRF8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy1orefgAAACV0Uk5TAHirC1j/rVmxVK9TmFuuV6wBsA9WAis/1X0HQd2q5hwFihCWReJwKb4AAABrSURBVHicXY5ZDoMwDAVfUwwpBAJ0Y9/vf0ZCRMDwPix7LI8MuDzEE/d4RP6dBWQir+xFNiFnkQEqNiU5mTZjarUkuE84icwOX45L+/5s6+9+tA35D//C+ti7VKKqm5Y/ojvVA8OoOZzmBStP2wQxu35ZIQAAAABJRU5ErkJggg=="/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+	</style>
+	<g id="Футер">
+		<g id="Кнопка">
+			<g id="Кнопка. Стрілка">
+				<use id="&lt;Контур&gt;" href="#img1" x="0" y="0" />
+			</g>
+		</g>
+	</g>
+</svg>

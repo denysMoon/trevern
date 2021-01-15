@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 15" width="24" height="15">
+	<defs>
+		<image width="24" height="15" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAPCAMAAADJev/pAAAAAXNSR0IB2cksfwAAAH5QTFRFKaviKaviKaviKaviKaviKaviKaviKaviKaviKaviKaviKaviKaviKaviKaviGqXyGqXyGaXzGqXyOLHSOLHSObHROLHROLHR4/Qd5vUZ6vYW6vYW//8A//8A//8A9/wI+/0E9/wI//8A7fgS8PkP9PoL8/oM8/oM8/oM8/oMYS0N8gAAACp0Uk5TPlRTVSlmiYiKRNn/kb5/vv//f77///9/w///f8T/f8T/3Y+RxL++wcVewmtAnAAAAE9JREFUeJytycURgDAABMALEtzd3fpvkAJyL4b9LiCEphC6AVNKSyFtB65H+Qh4hB8iipOYSJHlRUlUqJuW6dAP1Ihp/i0WHiu2/TgV1/28vuAcRSuTIlUAAAAASUVORK5CYII="/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+	</style>
+	<g id="Шапка">
+		<g id="Мова">
+			<g id="UA">
+				<use id="УКРАЇНА" href="#img1" x="0" y="0" />
+			</g>
+		</g>
+	</g>
+</svg>

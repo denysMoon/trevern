@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 22 23" width="22" height="23">
+	<defs>
+		<image width="22" height="23" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAXCAMAAAA4Nk+sAAAAAXNSR0IB2cksfwAAAPlQTFRFycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJ2AH+mgAAAFN0Uk5TADhpZWQ7BQx1qaV5HT//cEX+/XFB+uOKZ438bcEVB/T3HA/GCJPKybE1QLamdyWrorvzCjPyWfhuXT0TU62/uLM3RnM6zV+MjmIeFCtVVFYSLgELdUubAAAAxUlEQVR4nJ3RyVLCQBRA0UtiwqAEUEHDrKKIoqAyz4Iogwzy/x8DBCzoJivuqt9ZdHfVA4eingipiqbjdLk9Uu7TM7yGTT78gUM9v+AyuDeHrtRrM2wEIwJHY0A8IXHyZqXcynwHqfuHtHzJI2Ssg8hpeJI5/Jx9gddc/k3g9w82FQQu6lsuCVyuVGtQLzWa8pMt0Gx+0gaHDXfg8zjuGods9PjacZ//XSno36b5YzUYwmg9DIZj+J1MG1YzDebT1TD7WywBs0coYPmN5V8AAAAASUVORK5CYII="/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+	</style>
+	<g id="Футер">
+		<g id="Соц.мережі">
+			<use id="Фейсбук" href="#img1" x="0" y="0" />
+		</g>
+	</g>
+</svg>

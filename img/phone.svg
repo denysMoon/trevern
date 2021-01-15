@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 28 30" width="28" height="30">
+	<defs>
+		<image width="28" height="30" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAeCAYAAAA/xX6fAAAAAXNSR0IB2cksfwAAA95JREFUeJytllmIFUcUhk/36BgRjWJexIBGEgnOPCi4PxgHUVEwomDEiKLgRlyQCO4oLvjgGkNUDDEuGFGRKOj4IkiMoMIkLhDzEBCDSzQuuOBV79K3/E5X9dy+l+nxjtczfFO3qqvqr1N16nT7//WvFeWupeud/rUHbver2XOrX40H8r64x/z/D6gVXwq2BK5Ca+htRE6CVIpaa8+TW5mMXEu9CgWr4XeYCbPoNIlyCIyGqVKh5SHLpE9ygdzP5ELBdfAZfA7HXacUxRT67cgb6QjSUgy09Xx5htDVVEqyNLav8kPBMTDdE8mVLO4X+AMOvMs2BvxSr1L5fOhh3rX7zut/tOK5SjSQ+gSKUUbMGCj7r9r3wvE30ml5GgTS1vfDuSPBTLggJ+jHRCkfUSyEn6l/VI5nxIc8zubkEVRT8WPPIkGNyg5RQ7gSYwqI2cG/B2KDqlmrQiDDWamYnl1TpoLPoaaoUVfmYAkasT3hr+bEWtE3zQIfZoNwnG5rkuB1GB86JhphRmJd59N2jvoyfp9M9kxD34RbqeMTtBoFT8AgJv6g5NkMWMvgEZSbk87N9wr3TE+gymtGzQmehpcwSxs8z4sOWQX3wxmdoqoJdBsDOut55Z342yxKbZtgZSjowLYy1zhW3cYTjbYCKqQLexXkJRWomCnKkc0Kuq35Sb2kXBcTPAr3YJ+7Io3kjGIkA6FnUoZrJR6qaSpbAp/GGjWvfoUHE9ULFcmavLwme6TBDxdXvlip4Hn4EepNwcubMBkOQ++WTZ0gWJIp5jktzaORqIqthivQvWLBJtrq4GuYLwXVtbDLWI+7vW/BuzCUyb+HsbEg+ob6bvib330S5tsADfTZmiiYcKHPUUwRmxTqYv3nwHa4DBNL5lojNt/uFvsC11Q4uPTcfU1FpbjzPEjnueTis/z+QpynPFsuNins5fchyk60D6dcRTnas1esL89Og47dUiSY5LqznUywiIG/iZ0s2t490As6w59wDKYzWUMssy1mXJ3RnTLmBvVPyhFU0/PQAKqX4m+cf2EkLICxsK+JsRehC6u8gPAlGFZuRvoBxpFV9opNg3E7JXYHil7EMQuMjYcjsL5cQTUNoL4wTezZdIm2ONrFUNApagYKjM1OzmqhoSWCanr5P4YXoOeyoJxBno3oIST8ZS0VVEvDlzCDtX9r7MezJoqi96nGur4bebN8iJMa8bMRS72LYGR6JXrAcUQXUV4SG71LxXo0GZGNYj81f9Vn0UdaJaZvJ73wA2EFwu3ERq5G9WwEBlNuk1iSqFQwsqzYa6MRrF7qV4R+A30nNrIb7Q3ICNyntvm8ZgAAAABJRU5ErkJggg=="/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+	</style>
+	<g id="Шапка">
+		<g id="Контакти">
+			<use id="&lt;Складений контур&gt;" href="#img1" x="0" y="0" />
+		</g>
+	</g>
+</svg>

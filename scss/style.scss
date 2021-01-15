@@ -1,0 +1,20 @@
+//CSS base
+
+@import "null/null";
+@import "base/fonts";
+@import "base/variab";
+@import "base/base";
+
+// Components
+
+@import "components/header";
+@import "components/slider";
+@import "components/quality";
+@import "components/product";
+@import "components/partners";
+@import "components/footer";
+
+// Additional components
+
+@import "components/additional";
+

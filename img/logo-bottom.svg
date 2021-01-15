@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 39 31" width="39" height="31">
+	<defs>
+		<image width="39" height="31" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACcAAAAfCAMAAABTVCTHAAAAAXNSR0IB2cksfwAAAYNQTFRFycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJjeFbwAAAAIF0Uk5TJFNjXF5aQhoAV8nu3d7Oogdo6v/lX2Tosw8qYnRsaW2aqgSDWcuQPxg4PT4gGUAvHfCMJU0695G3r78twWfp0QPD5v3+vnfArBIoLAuWowowHvqBf6Y1gHy7SLwUnviSwogFx8biyif5EDzx2/LhifzcG8WE+9j1zQHP1ENm4NWcbzADWwAAAZ5JREFUeJyN02dTwkAQBuCAEhfFGiuIHRSwIIoKdrHHhr0rYO+KYhd/urshgZshEPdDsvfyzCW3EzhOp89Rr1wDnwdKccb8ApN6FZqKinUliistE7JVeYXsKquyOkGoLvnPflj5NeTMllqretXVNySe1UgOslVTswRbtByAgZxN24GdYCtwbQ7eSeXi2xM/dHS6pMDJd9HS3Y3O08Oet5dyb1/qpP0UDGDj49n5+SluZEcyiIEH70MGbngkmY6OYTzOOrP8gn4jp58QAliTiWMBTGEzSUlAEKYpmMFgtpWbm+8SRXFhkXVLyxiJK0Fai6sYrAWVuayzzs7MZYOev5mc31YGt01sBzRc0CcdZ1fF7dFYqdlvPvAfSuwIVNwxNiG8hyPKcOhzSXcR2TkUJm2e7k5kN3cqqbNzyO7AcSG5Sy0HV9cEb4JaDry3BO/yMrp7Obx6IPj4pOai2Dwrc3a+EIy5VZwNm3XFAf9K8G0szb1/YLOVdNBJn/d2ar8QLj/D+E+MJUebqC9B+Gbez/ITjf9ScxCPmiyMA6OVrn8otmx/JZ01VgAAAABJRU5ErkJggg=="/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+	</style>
+	<g id="Футер">
+		<g id="Логотип">
+			<use id="Лого. Низ" href="#img1" x="0" y="0" />
+		</g>
+	</g>
+</svg>

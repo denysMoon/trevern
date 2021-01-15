@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1425 20" width="1425" height="20">
+	<defs>
+		<image width="1425" height="20" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABZEAAAAUCAMAAADLLIM4AAAAAXNSR0IB2cksfwAAAQVQTFRFs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Oz8oOFlgAAAFd0Uk5TAEhYXisExNcmRdufCcP/pwHcmw3C9URrmAv2P2nG/T1nnPlAmvSZDz5CyucoVPdK2eMfS6Ye1OsyXa0IFtXxNa4U2DBasO5ZsgIa7DMXOl/lsdZXtU0jcTSdXwAAAU5JREFUeJzt2cdSAlEQheFRBAxwRAETZsWEKCZMKGLAnMP7P4ozhWMR9vTi/t+qb6/Oqqurr+eFeno9AEDXRfo6WtFYvN8gCQA4bmBwqL2VSErDFlkAwGmpEWm0tZXOSNkxmzgA4LJxSRPNjcmYNJWzigMALptWy5YcnZFm5+ziAIDL5v2RvBA+EhlpcckyDgC4LNiSlxtlOinlGcgAYCa4Ja8ExWpMyq5ZxwEAl/3dktc3pMKmdRgAcFtxK9iSt0vSzq51FgBw215W2ve8g7J0eGQdBgBcdizp5NQvKmfSedU6DgC4K+IP5ItGWbuU8lemaQDAYdf+QL4JH5W4VOdwAQAmbv2BfHf//3woS49PhnkAwFlNJ4uG5+CW/GKUBgAc9hp86rW2aqW2GQ0A6ILUm/Te3qx8FDhbAEDXfda/Uh3N3LdBEgBwXvEnrH4Bp/4X0oPOJmoAAAAASUVORK5CYII="/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+	</style>
+	<g id="Нам довіряють">
+		<use id="Стрілки" href="#img1" x="0" y="0" />
+	</g>
+</svg>

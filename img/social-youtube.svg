@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 22" width="30" height="22">
+	<defs>
+		<image width="30" height="22" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAWCAMAAADgvdz9AAAAAXNSR0IB2cksfwAAASxQTFRFycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJ8ndahgAAAGR0Uk5TAE+ElJ6mq621trCsqaGajmcXIZLAztbe4uPq6+bg2dPIp1MP/12C7wsIL/zf8YdSJsRsauzFfZEal4Y9vt2JTs2IEX5jcJM7x1d5sTbK1ZBflfkW+zrC6PX+9ydQdn+DgHReQJIgSTEAAAD9SURBVHicfdLXVsJAFAXQg4oNFDQaCIixjIlAbAgBEaOooGJHxI7t///BiSy8ySyH83bufrlTACAwMDgUHB4Z7WVsPBSemIxEp+BmWpmZVWNxLZFMdJOc01Lz+sLikqvLMSbLCmdDqsxcRVqXMwsgk/0r1prI69igYmxuCRxCjkoE2M77uACbSpEvWtrxso6yn4HdCk324IgM7Ku9ifYflw6IqyIfKjSxcCTwcdyzmooalTpw4tmL5xRnVBrpOvPnHBdULq8EZdf93pOxG+BWrs07/llaUrbdo9y3Hx6bWT88tZ5Ny+je0strtPZmd96d6m+c8ken8Zn7+ub0AzSeWpm9eoCwAAAAAElFTkSuQmCC"/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+	</style>
+	<g id="Футер">
+		<g id="Соц.мережі">
+			<use id="Ютуб" href="#img1" x="0" y="0" />
+		</g>
+	</g>
+</svg>

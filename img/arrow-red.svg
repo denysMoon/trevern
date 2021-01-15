@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 11 7" width="11" height="7">
+	<defs>
+		<image width="11" height="7" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAsAAAAHCAMAAADpsEdvAAAAAXNSR0IB2cksfwAAAGlQTFRF5jYs5jYs5jYs5jYs5jYs5jYs5jYs5jYs5jYs5jYs5jYs5jYs5jYs5jYs5jYs5jYs5jYs5jYs5jYs5jYs5jYs5jYs5jYs5jYs5jYs5jYs5jYs5jYs5jYs5jYs5jYs5jYs5jYs5jYs5jYsdtwiAQAAACN0Uk5TVXpMAGxnP3K7xwXvllAUNP3GD+fgJAop+d0OH/P/1wSkDBJ+FNYiAAAARUlEQVR4nDXG1xJAMBQA0csqUaOE6O3/P5Iw9mHniHg+riCMJFaJY5rlhZS6qqFpTdcL2EHZ0UzwmHlZt53P2OPkN9f7G3jfAxDCzJYHAAAAAElFTkSuQmCC"/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+	</style>
+	<g id="Шапка">
+		<g id="Мова">
+			<g id="UA">
+				<use id="&lt;Контур&gt;" href="#img1" x="0" y="0" />
+			</g>
+		</g>
+	</g>
+</svg>
